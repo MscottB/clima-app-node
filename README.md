@@ -7,7 +7,7 @@ comando de ejemplo:
 node app -d "santiago chile"
 ```
 resultado:
-
+```
 =======Datos del lugar a buscar======
 *Direccion: Rancagua, O'Higgins Region, Chile
 *Latitud: -34.17013240000001
@@ -17,3 +17,4 @@ resultado:
 *Humedad: 77
 *Temperatura Minima: 12.15
 *Temperatura Maxima: 12.15
+```
